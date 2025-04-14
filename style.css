@@ -157,11 +157,15 @@ bodY{
 }
 
 .project p{
-    margin: 20px;
+    margin: 40px;
+}
+
+.project img{
+    margin-bottom: 20px;
 }
 
 .project1{
-    height: 200px;
+    height: 300px;
     width: 350px;
     border: 1px solid black;
     background-color: #222;
@@ -173,7 +177,7 @@ bodY{
 }
 
 .project2{
-    height: 200px;
+    height: 300px;
     width: 350px;
     border: 1px solid black;
     background-color: #222;
@@ -185,7 +189,7 @@ bodY{
 }
 
 .project3{
-    height: 200px;
+    height: 300px;
     width: 350px;
     border: 1px solid black;
     background-color: #222;
